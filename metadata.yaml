@@ -1,0 +1,34 @@
+_repo: Rosy_6676
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Molesworth, Mrs.
+    aliases:
+    - Mrs. (Mary Louisa) Molesworth
+    - Molesworth, Mary Louisa Stewart
+    birthdate: 1839
+    deathdate: 1921
+    gutenberg_agent_id: '2147'
+    url: http://www.gutenberg.org/2009/agents/2147
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
+description: The adventures of Rosy, a little girl who could be quite unpleasant,
+  and her brothers and little Beata, who comes to stay with them while her parents
+  are away.
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6676'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jealousy -- Juvenile fiction'
+- !lcsh 'Temper -- Juvenile fiction'
+- !lcsh 'Family -- England -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Girls -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Rosy
+url: http://www.gutenberg.org/ebooks/6676
