@@ -1,5 +1,8 @@
 _repo: Rosy_6676
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Molesworth, Mrs.
@@ -14,6 +17,8 @@ creator:
 description: The adventures of Rosy, a little girl who could be quite unpleasant,
   and her brothers and little Beata, who comes to stay with them while her parents
   are away.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6676#Rosy
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
 identifiers:
